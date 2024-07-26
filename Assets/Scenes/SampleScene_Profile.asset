@@ -68,10 +68,10 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.25
+    m_Value: 0.37
   smoothness:
     m_OverrideState: 1
-    m_Value: 0.4
+    m_Value: 0.573
   rounded:
     m_OverrideState: 0
     m_Value: 0
@@ -93,7 +93,7 @@ MonoBehaviour:
     m_Value: 1
   BlurOffset:
     m_OverrideState: 1
-    m_Value: 1.48
+    m_Value: 1.5
   BlurMask:
     m_OverrideState: 1
     m_Value: {fileID: 2800000, guid: 786f14b18950f4e459c0e597cf235de0, type: 3}
